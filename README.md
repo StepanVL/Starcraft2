@@ -1,15 +1,22 @@
 # Starcraft2
+
 AutoHotKey script for starcraft 2 automation of unit ordering
 
+
 Requirements:
+
 AutoHotKey https://autohotkey.com/ 
 Script can be converted to a stand alone executable
 This script relies on keyboard grid layout. 
 
+
 Recommended:
+
 Gaming keyboard with G1-G18 keys for additional gain in performance
 
+
 Features:
+
 (1) Automated ordering of preset terran unit compositions according to templates.  
 
 (2) Rapid-fire warp-in for protoss
